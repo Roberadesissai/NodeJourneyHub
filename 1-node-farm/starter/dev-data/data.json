@@ -53,5 +53,225 @@
     "price": "2.00",
     "organic": false,
     "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
-  }
+  },
+  {
+    "id": 5,
+    "productName": "Blueberries",
+    "image": "🫐",
+    "from": "Canada",
+    "nutrients": "Vitamin C, Vitamin K, Manganese",
+    "quantity": "150g",
+    "price": "4.00",
+    "organic": true,
+    "description": "Blueberries are small, round, and deep blue in color. They are sweet and juicy with seeds barely noticeable. Blueberries are considered a superfood due to their high nutrient and antioxidant content. They are often eaten fresh, added to baked goods, or blended into smoothies. Blueberries can improve heart health, bone strength, skin health, blood pressure, diabetes management, cancer prevention, and mental health. One serving of blueberries contains almost a quarter of the recommended daily intake of Vitamin C and nearly a third of the recommended intake of Vitamin K."
+  },
+  {
+    "id": 6,
+    "productName": "Quinoa",
+    "image": "🌾",
+    "from": "Peru",
+    "nutrients": "Protein, Fiber, Magnesium",
+    "quantity": "500g",
+    "price": "7.50",
+    "organic": true,
+    "description": "Quinoa is a grain crop that is grown for its edible seeds. It’s pronounced KEEN-wah. It technically isn't a cereal grain, but a pseudo-cereal. In other words, it is basically a seed, which is prepared and eaten similarly to a grain. Quinoa was an important crop for the Inca Empire. They referred to it as the 'mother of all grains' and believed it to be sacred. It has been eaten for thousands of years in South America and only recently became a trend food, even reaching superfood status. Quinoa contains higher amounts of protein compared to true grains; it’s also a good source of dietary fiber and minerals."
+  },
+  {
+    "id": 7,
+    "productName": "Almond Milk",
+    "image": "🥛",
+    "from": "USA",
+    "nutrients": "Vitamin E, Calcium",
+    "quantity": "1L",
+    "price": "3.50",
+    "organic": false,
+    "description": "Almond milk is a plant milk made from almonds with a creamy texture and nutty flavor, although some types or brands are flavored in imitation of dairy milk. It does not contain cholesterol, saturated fat or lactose, and is often consumed by those who are lactose-intolerant and others who wish to avoid dairy products, including vegans. Commercial almond milk comes in sweetened, unsweetened, vanilla and chocolate flavors, and is usually fortified with micronutrients. It is low in calories compared to cow's milk and other plant-based milks."
+  },
+  {
+    "id": 8,
+    "productName": "Whole Wheat Bread",
+    "image": "🍞",
+    "from": "Australia",
+    "nutrients": "Fiber, Protein, B Vitamins",
+    "quantity": "1 loaf",
+    "price": "2.50",
+    "organic": false,
+    "description": "Whole wheat bread is made from flour that uses the entire grain, including the outer bran, the germ, and the endosperm. This type of bread offers more nutrients and fiber compared to white bread, which is made from just the endosperm. Whole wheat bread has a nutty taste and a firm texture. It's a good source of carbohydrates, protein, and fiber, as well as vitamins and minerals such as magnesium, selenium, and manganese. Eating whole grains is associated with various health benefits, including a lower risk of diabetes, heart disease, and high blood pressure."
+  },
+  {
+    "id": 9,
+    "productName": "Organic Eggs",
+    "image": "🥚",
+    "from": "Ireland",
+    "nutrients": "Protein, Vitamin D, Choline",
+    "quantity": "12 🥚",
+    "price": "3.00",
+    "organic": true,
+    "description": "Organic eggs are produced by hens that are fed organic feed, without the use of antibiotics or synthetic pesticides. These hens are raised in a free-range system, which allows them to roam outdoors. This method of poultry farming promotes animal welfare and results in eggs that many consider to be more flavorful and nutritious. Organic eggs are a good source of high-quality protein, rich in essential amino acids. They also contain important vitamins and minerals, including Vitamin D, Vitamin B12, selenium, and choline, which is important for brain health."
+  },
+  {
+    "id": 10,
+    "productName": "Spirulina Powder",
+    "image": "🌿",
+    "from": "China",
+    "nutrients": "Protein, Vitamin B1, Iron",
+    "quantity": "100g",
+    "price": "15.00",
+    "organic": true,
+    "description": "Spirulina is a biomass of cyanobacteria (blue-green algae) that can be consumed by humans and animals. It is one of the world’s most popular supplements, renowned for its intense nutrient content and health benefits. Spirulina is a fantastic source of antioxidants, which can protect against oxidative damage. Its main active component is called phycocyanin, an antioxidant that also gives spirulina its unique blue-green color. Spirulina is rich in protein and provides a good source of antioxidants, B-vitamins, and other nutrients, depending on the water it is grown in. It is particularly high in protein, Vitamin B1 (thiamine), iron, and calcium, making it an excellent supplement for vegetarians and vegans."
+  },
+  {
+    "id": 11,
+    "productName": "Kale Chips",
+    "image": "🥬",
+    "from": "USA",
+    "nutrients": "Vitamin K, Vitamin C, Iron",
+    "quantity": "30g",
+    "price": "4.50",
+    "organic": false,
+    "description": "Kale chips are a crispy, delicious, and healthy alternative to traditional snack foods. Made by seasoning and baking kale leaves until crisp, they offer a nutrient-dense snacking option. Kale is a superfood leafy green that is high in vitamins and antioxidants. Kale chips can be seasoned with a variety of flavors, such as sea salt, vinegar, cheese, or spicy seasonings, to cater to different palates. They provide a great way to enjoy the health benefits of kale, including improved heart health, weight management, and increased intake of vitamins, in a tasty, convenient form."
+  },
+  {
+    "id": 12,
+    "productName": "Chia Seeds",
+    "image": "🌱",
+    "from": "Mexico",
+    "nutrients": "Omega-3, Fiber, Protein",
+    "quantity": "200g",
+    "price": "5.00",
+    "organic": true,
+    "description": "Chia seeds are small, black seeds from the Salvia hispanica plant, a member of the mint family, which is native to Mexico and Guatemala. They are highly nutritious, providing a rich source of omega-3 fatty acids, fiber, and protein. Chia seeds are also loaded with antioxidants and minerals such as calcium, phosphorus, and magnesium. They have the unique ability to absorb water and turn into a gel-like substance, owing to the soluble fiber they contain. This makes them a versatile ingredient in recipes, from smoothies and puddings to breads and cakes. Their health benefits include promoting weight loss, reducing inflammation, and improving heart health."
+  },
+  {
+    "id": 13,
+    "productName": "Matcha Tea",
+    "image": "🍵",
+    "from": "Japan",
+    "nutrients": "Antioxidants, Theanine, Caffeine",
+    "quantity": "50g",
+    "price": "20.00",
+    "organic": true,
+    "description": "Matcha is a finely ground powder made from specially grown and processed green tea leaves. It is unique among teas in that when consumed, the whole leaf is ingested, providing more nutrients than steeped green tea. Matcha is celebrated for its high concentration of antioxidants, particularly catechins, which may reduce cell damage and prevent chronic disease. It also contains a combination of caffeine and L-theanine, which can improve brain function, enhance mood, and help with concentration. Matcha has a distinctive, vibrant green color and a creamy, slightly sweet, and umami-rich flavor, making it popular in both traditional tea ceremonies and modern culinary dishes."
+  },
+  {
+    "id": 14,
+    "productName": "Turmeric Root",
+    "image": "🌾",
+    "from": "India",
+    "nutrients": "Curcumin, Fiber, Iron",
+    "quantity": "100g",
+    "price": "2.50",
+    "organic": true,
+    "description": "Turmeric root is a bright yellow-orange spice widely used in Indian and Southeast Asian cooking. The active ingredient in turmeric is curcumin, known for its anti-inflammatory and antioxidant properties. Turmeric has been used in Ayurvedic medicine for thousands of years to treat various conditions and illnesses. It adds a warm, earthy aroma and flavor to dishes, and is a staple ingredient in curry powder. Besides its culinary uses, turmeric is also taken as a supplement for its health benefits, which include supporting joint health, improving digestion, and helping to prevent chronic diseases such as cancer and heart disease."
+  },
+    {
+      "id": 15,
+      "productName": "Organic Raw Honey",
+      "image": "🍯",
+      "from": "New Zealand",
+      "nutrients": "Antioxidants, Enzymes",
+      "quantity": "250g",
+      "price": "10.00",
+      "organic": true,
+      "description": "Organic raw honey is unfiltered and unpasteurized, preserving its natural vitamins, enzymes, and nutrients. Harvested in New Zealand, it is renowned for its purity and unique health benefits. This honey is a rich source of antioxidants, which can help reduce the risk of chronic diseases and fight inflammation. It's also known for its antibacterial and antifungal properties, making it a natural remedy for various ailments. The taste and color of organic raw honey can vary depending on the flowers from which the bees collect nectar, offering a unique flavor profile that is more complex than processed honey."
+    },
+    {
+      "id": 16,
+      "productName": "Black Garlic",
+      "image": "🧄",
+      "from": "South Korea",
+      "nutrients": "Allicin, Antioxidants",
+      "quantity": "100g",
+      "price": "12.00",
+      "organic": true,
+      "description": "Black garlic is made by fermenting raw garlic bulbs at a high temperature over several weeks. This process not only changes its color and texture but also enhances its nutritional properties. Black garlic has a sweet, syrupy taste with hints of balsamic and tamarind. It's a superfood known for its high content of antioxidants and allicin, which can help in reducing cholesterol levels, protecting against heart disease, and boosting immune function. Originating from South Korea, black garlic is used in a variety of dishes for its unique flavor and health benefits."
+    },
+    {
+      "id": 17,
+      "productName": "Pink Himalayan Salt",
+      "image": "🧂",
+      "from": "Pakistan",
+      "nutrients": "Minerals, Trace Elements",
+      "quantity": "500g",
+      "price": "5.00",
+      "organic": false,
+      "description": "Pink Himalayan salt is mined from the Khewra Salt Mine in Pakistan, the second-largest salt mine in the world. It is prized for its nutritional content, containing over 84 minerals and trace elements, including calcium, magnesium, potassium, copper, and iron. This salt is believed to have numerous health benefits, such as promoting hydration, balancing the body's pH levels, and improving respiratory diseases. Its pink color comes from the trace minerals it contains. Pink Himalayan salt is used in cooking and food presentation, as well as in spa treatments and lamps for its purported air-purifying properties."
+    },
+    {
+      "id": 18,
+      "productName": "Ginger Root",
+      "image": "🌱",
+      "from": "India",
+      "nutrients": "Gingerol, Magnesium",
+      "quantity": "200g",
+      "price": "3.00",
+      "organic": true,
+      "description": "Ginger root is a flowering plant whose rhizome, ginger root or simply ginger, is widely used as a spice or a folk medicine. Originating from India, ginger has a long history of use in various forms of traditional and alternative medicine. It helps with digestion, reduces nausea, and helps fight the flu and common cold. The bioactive substance in ginger known as gingerol is responsible for much of its medicinal properties, including its anti-inflammatory and antioxidant effects."
+    },
+    {
+      "id": 19,
+      "productName": "Acai Berries",
+      "image": "🍇",
+      "from": "Brazil",
+      "nutrients": "Antioxidants, Fiber, Heart-Healthy Fats",
+      "quantity": "100g",
+      "price": "7.00",
+      "organic": true,
+      "description": "Acai berries are a grape-like fruit native to the rainforests of South America. Known for their high antioxidant content, these berries are also rich in fiber and heart-healthy fats. They have been heralded for their weight loss and anti-aging properties. Acai berries are often used in smoothies, bowls, and dietary supplements. Despite their numerous health benefits, they're best consumed in moderation due to their high calorie and fat content compared to other fruits."
+    },
+    {
+      "id": 20,
+      "productName": "Coconut Oil",
+      "image": "🥥",
+      "from": "Philippines",
+      "nutrients": "MCTs, Lauric Acid",
+      "quantity": "500ml",
+      "price": "8.00",
+      "organic": true,
+      "description": "Coconut oil is extracted from the meat of mature coconuts harvested from the coconut palm. It has a wide range of health benefits, attributed to its content of Medium Chain Triglycerides (MCTs) and lauric acid. These compounds are known to boost metabolism, increase energy, and have antimicrobial properties. Coconut oil is versatile in culinary uses, from baking to frying, and also in beauty and skin care products for its moisturizing properties."
+    },
+    {
+      "id": 21,
+      "productName": "Wild Salmon",
+      "image": "🐟",
+      "from": "Alaska",
+      "nutrients": "Omega-3 Fatty Acids, Protein, Vitamin D",
+      "quantity": "200g",
+      "price": "15.00",
+      "organic": false,
+      "description": "Wild salmon from Alaska is prized for its flavor, texture, and nutritional content. Unlike farmed salmon, wild salmon feed on a natural diet, resulting in higher levels of omega-3 fatty acids, which are beneficial for heart health, brain function, and inflammation reduction. Wild salmon is also a great source of protein and vitamin D. The sustainability practices in Alaska ensure that the salmon populations remain healthy and abundant for future generations."
+    },
+    {
+      "id": 22,
+      "productName": "Cacao Nibs",
+      "image": "🍫",
+      "from": "Ecuador",
+      "nutrients": "Magnesium, Antioxidants, Fiber",
+      "quantity": "150g",
+      "price": "6.00",
+      "organic": true,
+      "description": "Cacao nibs are crushed cacao beans that have been roasted, separated from their husks, and broken into smaller pieces. They offer a rich, chocolatey flavor but are less sweet and more nutty compared to processed chocolate. Cacao nibs are packed with nutrients, including magnesium, antioxidants, and fiber. They are linked to numerous health benefits, such as improved heart health and reduced inflammation. Cacao nibs can be added to smoothies, yogurt, oatmeal, or baked goods for a nutritious boost."
+    },
+    {
+      "id": 23,
+      "productName": "Maca Root Powder",
+      "image": "🌾",
+      "from": "Peru",
+      "nutrients": "Vitamins, Minerals, Amino Acids",
+      "quantity": "200g",
+      "price": "10.00",
+      "organic": true,
+      "description": "Maca root powder is made from the root of the maca plant, which is native to the Andes of Peru. It is highly nutritious and has been used for centuries in traditional Peruvian medicine. Maca is rich in vitamins, minerals, amino acids, and plant sterols, which can help increase energy levels, improve mood, and reduce symptoms of menopause. It is also said to enhance fertility and sexual health. Maca root powder has a nutty, earthy flavor and can be added to smoothies, oatmeal, or baked goods."
+    },
+    {
+      "id": 24,
+      "productName": "Flaxseeds",
+      "image": "🌿",
+      "from": "Canada",
+      "nutrients": "Omega-3 Fatty Acids, Fiber, Protein",
+      "quantity": "250g",
+      "price": "4.00",
+      "organic": true,
+      "description": "Flaxseeds, also known as linseeds, are small, brown, or golden-colored seeds that are a rich source of dietary fiber, omega-3 fatty acids, and protein. They have been shown to help reduce cholesterol, improve digestive health, and lower the risk of heart disease. Flaxseeds can be consumed whole, ground into meal, or used to make oil. Their high fiber content can help you feel full and satisfied, making them a great addition to a weight management diet."
+    }
 ]
